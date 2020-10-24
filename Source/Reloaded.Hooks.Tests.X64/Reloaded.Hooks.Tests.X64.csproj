@@ -81,4 +81,8 @@
     <NativeLibs Remove="CSharpFromAssembly.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <NativeLibs Remove="PatchApplyTest.cs" />
+  </ItemGroup>
+
 </Project>
